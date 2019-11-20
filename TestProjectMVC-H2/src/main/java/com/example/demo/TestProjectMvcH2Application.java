@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TestProjectMvcH2Application {
 
 	public static void main(String[] args) {
+		 /* Responsible for launching the boot application. */
 		SpringApplication.run(TestProjectMvcH2Application.class, args);
 	}
 
